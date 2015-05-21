@@ -1,52 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>おりんりんブログ</title>
+    <title>おりんりんのブログ</title>
     <description>一緒に永遠に眠りましょう～</description>
     <link>http://blog.orinr.in/</link>
     <atom:link href="http://blog.orinr.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 May 2015 07:15:06 +0900</pubDate>
-    <lastBuildDate>Fri, 22 May 2015 07:15:06 +0900</lastBuildDate>
+    <pubDate>Fri, 22 May 2015 07:25:31 +0900</pubDate>
+    <lastBuildDate>Fri, 22 May 2015 07:25:31 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>いい音楽 #1</title>
-        <description>&lt;style&gt;
-	th{text-align:center;border: 1px solid black;width:60px;}
-	td{text-align:center;border: 1px solid black;width:300px;}
-	audio{width:372px;}
-&lt;/style&gt;
-
-&lt;table cellspacing=&quot;2&quot;&gt;
-	&lt;tbody&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Title&lt;/th&gt;&lt;td&gt;SOLOMON&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Artist&lt;/th&gt;&lt;td&gt;Yooh&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Album&lt;/th&gt;&lt;td&gt;ABSOLUTE&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Circle&lt;/th&gt;&lt;td&gt;Massive CircleZ&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;audio src=&quot;http://orinr.in/mb/$/Massive%20CircleZ/ABSOLUTE/01%20-%20SOLOMON.ogg&quot; controls=&quot;&quot;&gt;&lt;/audio&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;さすが、Yoohさん!&lt;/p&gt;
-
-&lt;p&gt;Ah, this piece certainly leaves a strong impression as the first track of the album.  I wonder if that’s why I like it so much…?&lt;/p&gt;
-
-&lt;p&gt;Either way, it’s nice to know that Yooh can make memorable tracks without resorting to creating another version of Dynasty.&lt;/p&gt;
-
-&lt;p&gt;I’ll be posting some odd bits of music from time to time, so until the next…!&lt;/p&gt;
-
-&lt;p&gt;またねー&lt;/p&gt;
-</description>
+        <description>						TitleSOLOMON							ArtistYooh							Album...</description>
         <pubDate>Fri, 22 May 2015 14:12:53 +0900</pubDate>
         <link>http://blog.orinr.in/music/2015/05/22/music.html</link>
         <guid isPermaLink="true">http://blog.orinr.in/music/2015/05/22/music.html</guid>
@@ -58,15 +23,7 @@
     
       <item>
         <title>ハニュエーラーHP復習</title>
-        <description>&lt;p&gt;2014年11月
-&lt;img src=&quot;http://blog.orinr.in/media/newearl1.png&quot; alt=&quot;ナベUL&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2015年04月
-&lt;img src=&quot;http://blog.orinr.in/media/newearl2.png&quot; alt=&quot;マガ２&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2015年09月
-&lt;img src=&quot;http://blog.orinr.in/media/marlu.png&quot; alt=&quot;チョ・マールー&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
-</description>
+        <description>2014年11月2015年04月2015年09月</description>
         <pubDate>Thu, 21 May 2015 11:10:50 +0900</pubDate>
         <link>http://blog.orinr.in/pso2/2015/05/21/hunewearl.html</link>
         <guid isPermaLink="true">http://blog.orinr.in/pso2/2015/05/21/hunewearl.html</guid>
@@ -78,8 +35,7 @@
     
       <item>
         <title>生きてる！</title>
-        <description>&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/qq32cxIl0cY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
+        <description></description>
         <pubDate>Thu, 21 May 2015 11:00:53 +0900</pubDate>
         <link>http://blog.orinr.in/general/2015/05/21/it-lives.html</link>
         <guid isPermaLink="true">http://blog.orinr.in/general/2015/05/21/it-lives.html</guid>
